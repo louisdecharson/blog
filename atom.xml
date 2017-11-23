@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Adverse selection</title>
+  
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://louisdecharson.github.io/blog/"/>
+  <updated>2017-11-22T23:45:04.000Z</updated>
+  <id>http://louisdecharson.github.io/blog/</id>
+  
+  <author>
+    <name>Louisdecharson</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first-post</title>
+    <link href="http://louisdecharson.github.io/blog/2017/11/23/first-post/"/>
+    <id>http://louisdecharson.github.io/blog/2017/11/23/first-post/</id>
+    <published>2017-11-22T23:45:04.000Z</published>
+    <updated>2017-11-22T23:45:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
